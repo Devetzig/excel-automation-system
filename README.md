@@ -1,11 +1,9 @@
 # Excel Automation System
 
 ## Project Overview
-This project is an **automated Excel system** designed to streamline **order management, product cataloging, and operational workflows**. The system reduces manual effort, minimizes errors, and improves data visibility for small to medium-scale businesses.
+This project is an automated Excel system designed to streamline order management, product cataloging, and operational workflows. The system reduces manual effort, minimizes errors, and improves data visibility for small to medium-scale businesses.
 
-It showcases my skills in **Excel formulas, VBA macros, workflow optimization**, and **data-driven process automation**.
-
----
+It showcases my skills in **Excel formulas, VBA macros, workflow optimization, and data-driven process automation**.
 
 ## Key Features
 - **Order Management:** Track thousands of products, customer details, quantities, and order status.
@@ -14,43 +12,29 @@ It showcases my skills in **Excel formulas, VBA macros, workflow optimization**,
 - **Dynamic Reporting:** Generate sales, inventory, and order reports automatically.
 - **Workflow Optimization:** Designed for usability and adaptability to evolving operational needs.
 
----
-
 ## Technologies Used
 - Microsoft Excel (Advanced formulas, pivot tables)
 - Excel VBA / Macros
 - Microsoft Word (for warranty documentation templates)
 
----
-
 ## How to Use
 *Project in progress – Excel files will be added soon.*
-1. Open `OrderManagement.xlsx` in Microsoft Excel.
-2. Enable macros if prompted.
-3. Use the **Instructions** sheet for navigation and guidance.
-4. Input orders, products, or customer data in the relevant sheets.
-5. Generate reports using the provided buttons/macros.
-
----
 
 ## Example Screenshots
-*(I'll add screenshots of your Excel dashboards, product catalog, or macros in action here)*
-
----
+*Screenshots of Excel dashboards and macros will be added once the project files are uploaded.*
 
 ## Learning Outcomes
 - Applied advanced Excel techniques to solve real-world business problems.
 - Learned to integrate automation into daily workflows to increase efficiency.
 - Gained experience documenting processes for ease of use by non-technical users.
 
----
-
 ## Future Improvements
 - Integrate Python for automated data analysis and predictive insights.
 - Add user authentication and access control for multi-user environments.
 - Expand reporting capabilities with charts and dashboards.
 
----
+## Project Status
+🚧 In Progress – Excel files and macros will be uploaded soon
 
 ## Author
 **Georgia Maria Devetzi**  
