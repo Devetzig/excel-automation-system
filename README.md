@@ -24,6 +24,7 @@ It showcases my skills in **Excel formulas, VBA macros, workflow optimization**,
 ---
 
 ## How to Use
+*Project in progress – Excel files will be added soon.*
 1. Open `OrderManagement.xlsx` in Microsoft Excel.
 2. Enable macros if prompted.
 3. Use the **Instructions** sheet for navigation and guidance.
