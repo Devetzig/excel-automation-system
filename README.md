@@ -27,8 +27,7 @@ It showcases my skills in **Excel formulas, VBA macros, workflow optimization, a
 
 
 ## Project Status
-*Project in progress – Excel files will be added soon.*
-🚧 In Progress – Excel files and macros will be uploaded soon
+Project in progress – Excel files will be added soon. 🚧  Excel files and macros will be uploaded soon
 
 ## Author
 **Georgia Maria Devetzi**  
