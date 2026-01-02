@@ -17,9 +17,6 @@ It showcases my skills in **Excel formulas, VBA macros, workflow optimization, a
 - Excel VBA / Macros
 - Microsoft Word (for warranty documentation templates)
 
-## How to Use
-*Project in progress – Excel files will be added soon.*
-
 ## Example Screenshots
 *Screenshots of Excel dashboards and macros will be added once the project files are uploaded.*
 
@@ -28,12 +25,9 @@ It showcases my skills in **Excel formulas, VBA macros, workflow optimization, a
 - Learned to integrate automation into daily workflows to increase efficiency.
 - Gained experience documenting processes for ease of use by non-technical users.
 
-## Future Improvements
-- Integrate Python for automated data analysis and predictive insights.
-- Add user authentication and access control for multi-user environments.
-- Expand reporting capabilities with charts and dashboards.
 
 ## Project Status
+*Project in progress – Excel files will be added soon.*
 🚧 In Progress – Excel files and macros will be uploaded soon
 
 ## Author
