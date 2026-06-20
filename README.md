@@ -1,5 +1,3 @@
-[DEVE_PRODUCT_CATALOG.xlsx](https://github.com/user-attachments/files/26189712/DEVE_PRODUCT_CATALOG.xlsx)# Devetzis Electro Service - Management System
- 
 
 ---
 
